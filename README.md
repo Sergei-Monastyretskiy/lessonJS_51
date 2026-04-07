@@ -21,7 +21,7 @@
 ### 1. Клонуйте репозиторій
 
 ```bash
-git clone <ваш-репозиторій>
+git clone https://github.com/Sergei-Monastyretskiy/lessonJS_51.git
 cd lessonJS_46
 ```
 
